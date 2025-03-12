@@ -1,0 +1,12 @@
+matplotlib==3.6.2
+numpy==2.2.3
+pandas==2.2.3
+opencv-python==4.7.0.68
+pillow
+scipy
+scikit-learn
+pydot
+seaborn
+torch==2.6.0
+torchvision==0.21.0
+torchmetrics

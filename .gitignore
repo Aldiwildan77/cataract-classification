@@ -1,0 +1,6 @@
+.venv
+attempt/
+dataset/
+output/
+.idea
+.ipynb_checkpoints
